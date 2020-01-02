@@ -5,6 +5,16 @@ logs/
 results/
 temp/
 test/
+all_bottles/
+all_bottles_cropped/
+images
+annotations
+COCO_cropped_images
+cropped_downloaded_bottles
+cropped_images
+Data
+downloaded_bottles
+extracted_image
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
